@@ -1,0 +1,21 @@
+
+#navbar{
+    display:flex;
+}
+#menu{
+    display:grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-template-rows: auto
+    margin:auto;
+    
+    
+}
+#menu,div{
+    gap:30px;
+    
+    
+}
+#menu,img{
+    width:250px;
+    height:250px;
+}

@@ -1,0 +1,18 @@
+
+#bucket{
+    display:grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-template-rows: auto
+    margin:auto;
+    
+    
+}
+#bucket,div{
+    gap:30px;
+    
+    
+}
+#bucket,img{
+    width:250px;
+    height:250px;
+}
